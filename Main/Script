@@ -1,0 +1,9 @@
+local games = {
+    [5094651510]= "",
+    [6572877929] = "",
+    [6572877929] = ""
+    }
+    local game = game.PlaceId
+    if games[game] then
+    loadstring(game:HttpGet(games[game]))()
+    end
