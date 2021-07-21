@@ -1,7 +1,7 @@
 local games = {
     [5094651510]= "",
-    [6572877929] = "",
-    [6572877929] = ""
+    [6572877929] = "https://raw.githubusercontent.com/Dankestmemes1/RojutsuBlox/main/windowsx/script.lua",
+    [6572877929] = "https://raw.githubusercontent.com/Dankestmemes1/RageRunner/main/Windows-X"
     }
     local game = game.PlaceId
     if games[game] then
